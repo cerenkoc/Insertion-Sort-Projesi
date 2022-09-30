@@ -25,3 +25,6 @@ worst case =>  n! =n*(n+1)/2 = (n^2+n)/2 = O(n^2)
 2. aşama =[3,5,7,8,2,9,4,15,6]
 3. aşama =[2,3,5,7,8,9,4,15,6]
 4. aşama =[2,3,4,5,7,8,9,15,6]
+
+
+![ınsertıon](https://user-images.githubusercontent.com/110016998/193259965-90fe7226-3cc0-4a88-addc-005d46f8cafe.png)
