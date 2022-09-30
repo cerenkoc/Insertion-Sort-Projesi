@@ -13,7 +13,11 @@
 
 2- Big-O gösterimini yazınız.
 worst case =>  n! =n*(n+1)/2 = (n^2+n)/2 = O(n^2)
+
+
 3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+
+
 4- Bu dizine göre 18 sayısı average case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
